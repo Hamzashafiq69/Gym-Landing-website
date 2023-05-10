@@ -1,0 +1,19 @@
+.min-h-screen{
+    min-height: 100vh;
+    background-color: red;
+}
+.mx-auto{
+    margin: 0 auto;
+}
+
+.navs li{
+    margin: 0 12px;
+    list-style: none;
+
+}
+nav{
+    height: 50px;
+}
+header{
+height: 50px;
+}
